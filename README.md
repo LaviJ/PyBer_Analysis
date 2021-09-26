@@ -1,6 +1,7 @@
 # 1. PyBer Analysis
 ## The purpose of the PyBer analysis : 
-This analysis is for a Pyber which is a python based ride sharing app. We are preparing visualizations from a large csv file. We will be exploring different charts in order to find the best chart for this analysis. Also derive the linear regression equations for from the data.
+This analysis is for a Pyber which is a python based ride sharing app. We are preparing visualizations from a large csv file. We will be exploring different charts in order to find the best chart for this analysis. 
+
 As it is such a large dataset(from two large csv files which have the city data and the ride data) , we came up with the following list of steps and deliverables:
 •	Import your data into a Pandas DataFrame.
 •	Merge your DataFrames.
