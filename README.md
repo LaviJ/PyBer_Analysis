@@ -1,4 +1,6 @@
 # 1. PyBer Analysis
+Analysis and visualizations to help PyBer improve access to ride sharing services and determine affordability for underserved neighborhoods. 
+
 ## The purpose of the PyBer analysis : 
 This analysis is for a Pyber which is a python based ride sharing app. We are preparing visualizations from a large csv file. We will be exploring different charts in order to find the best chart for this analysis. 
 
